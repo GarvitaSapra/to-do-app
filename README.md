@@ -18,6 +18,7 @@ cd todo-list
 <br>
 Open the todolist.html file in your web browser.
 
+(dont forget to create a folder for the images or change the path instead)
 <h3><b>Start adding tasks to your to-do list!</b></h3>
 
 <h3>Technologies Used</h3>
